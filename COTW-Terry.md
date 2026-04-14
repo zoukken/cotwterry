@@ -1,5 +1,5 @@
 # Terry Bogard - Quick Guide
-![Description](https://generacionxbox.com/wp-content/uploads/2024/08/terry.jpg)
+![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/fatal-fury-city-of-the-wolves-terry-guide-featured-image.jpg)
 
 <u>Controls:</u> A=LP - C=HP - B=LK - D=HK  
 
