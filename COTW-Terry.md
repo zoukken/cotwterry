@@ -6,12 +6,12 @@
 ## Neutral / Strategy
 #### Zoning (high-range)
 * `236A` ==> walk / anti-air
-* `236AC` ==> run pressure / anti-air
+* `236AC` ==> run / anti-air
 * `214D` ==> neutral skip
 #### Pokes (mid-range)
-* `5C` / `2C` (hit-confirm)
-* `5D` (only super-cancelable)
+* `5C` or `2C` (hit-confirm)
 #### Pressure (close-range)
+* `2B,2A,5A` (hit-confirm)
 * `5C.6C` (hit-confirm)
 * `5C.6C` > `feint` > `5C` (frametrap or hit-confirm)
 
@@ -39,8 +39,8 @@
 * `5D` > `5A`
 * `5B` > `5A`
 
-## Meaty
-> after Throw / Super / REV Blow
+## Meaty okizeme
+> after Throw / Super / Wild Punush / REV Blow
 * `Throw` > `214A Break` > `5B/5C`
 * `Super.A/B` > `214C` > `2C`
 * `REV Blow` > `Jump` > `5C`
