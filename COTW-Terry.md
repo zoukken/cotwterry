@@ -33,18 +33,15 @@
 * `214A` > `214BD` > `623D Break` …
 
 ## Frametraps
-* `236BD` > `5C`
+* `236BD` > `close 5C`
 * `5C.6C` > `Feint` > `5C`
 * `5D` > `5A`
-* `5B` > `5A`
+* `close 5B` > `5A`
 
 ## Meaty okizeme
 > after Throw / Super / Wild Punush / REV Blow
 * `Throw` > `214A Break` > `5B/5C`
 * `Super.A/B` > `214C` > `2C`
 * `REV Blow` > `Jump` > `5C`
-
-## Safe jump
-* `Super.A` > `214A Break` > `jC`
 
 
