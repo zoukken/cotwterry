@@ -1,12 +1,16 @@
 # Terry Bogard - Quick Guide
 ![Description](https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/04/fatal-fury-city-of-the-wolves-terry-guide-featured-image.jpg)
 
-<u>Controls:</u> A=LP - C=HP - B=LK - D=HK  
+<u>Controls:</u> 
+* <b>A</b>(LP) <b>C</b>(HP)
+* <b>B</b>(LK) <b>D</b>(HK)
+
+<img src="/arcadestick.webp" style="max-width:600px;width:100%">
 
 ## Neutral / Strategy
 #### Zoning (high-range)
-* `236A` ==> walk / anti-air
-* `236AC` ==> run / anti-air
+* `236A` ==> walk,run / anti-air
+* `236AC` ==> walk,run / anti-air
 * `214D` ==> neutral skip
 #### Pokes (mid-range)
 * `5C` or `2C` (hit-confirm)
@@ -17,10 +21,10 @@
 
 ## Hit-confirms
 * `2B` > `2A` > `236B.6K.6K`
-* `2B` > `5A` > `623D Break` > `214P/AC` ...
+* `2B` > `5A` > `623D Break` ...
 * `5C.6C` > `214P/AC` ...
 * `5C` / `2C` > `214P/AC` ...
-* `5C.6C` > `feint` > `2C` > `214P/AC` ...
+* `5C.6C` > `feint` > `2C` ...
 
 ## REV ARTS (EX) routes 
 > after 623D Break / 5C.6C / 5C / 2C
@@ -38,8 +42,8 @@
 * `5D` > `5A`
 * `close 5B` > `5A`
 
-## Meaty okizeme
-> after Throw / Super / Wild Punush / REV Blow
+## Meaty - okizeme
+> Only after Throw / Super / REV Blow / Wild Punush 
 * `Throw` > `214B` > `5A`
 * `Super.A/B` > `214C` > `2C`
 * `REV Blow` > `Jump` > `5C`
