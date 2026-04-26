@@ -5,7 +5,7 @@
 * <b>A</b>(LP) <b>C</b>(HP)
 * <b>B</b>(LK) <b>D</b>(HK)
 
-<img src="/arcadestick.webp" style="max-width:600px;width:100%">
+<img src="arcadestick.webp" style="max-width:600px;width:100%">
 
 ## Neutral / Strategy
 #### Zoning (high-range)
