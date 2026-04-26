@@ -44,7 +44,7 @@
 
 ## Meaty - okizeme
 > Only after Throw / Super / REV Blow / Wild Punush 
-* `Throw` > `214B` > `5A`
+* `Throw` > `236B` > `5A`
 * `Super.A/B` > `214C` > `2C`
 * `REV Blow` > `Jump` > `5C`
 
